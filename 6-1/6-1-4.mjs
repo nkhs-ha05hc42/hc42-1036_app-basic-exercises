@@ -18,3 +18,10 @@ console.log(a3 && b3)
 console.log(a3 || b3)
 console.log(! a3)
 console.log(! b3)
+
+const  a4 = false
+const  b4 = true
+console.log(a4 && b4)
+console.log(a4 || b4)
+console.log(! a4)
+console.log(! b4)
